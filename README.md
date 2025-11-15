@@ -20,16 +20,22 @@ Project ini merupakan hasil pengerjaan Take Home Test untuk posisi **Frontend En
 ## 📌 Tech Overview
 
 ### **Framework & Language**
-- ⚡ Vue js
-- 🔷 TypeScript
+<p align="left">
+  <img src="https://raw.githubusercontent.com/vuejs/art/master/logo.svg" width="70" alt="Vue Logo" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" width="70" alt="TypeScript Logo" />
+</p>
 
 ### **Styling**
-- 🎨 Tailwind CSS
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="100" alt="Tailwind CSS Logo" />
+</p>
 
 ### **Utilities**
 - Vue Router
 - LocalStorage Authentication
 - Prettier Formating
+- Vue Chart.js
 
 ---
 
@@ -49,16 +55,17 @@ Project ini merupakan hasil pengerjaan Take Home Test untuk posisi **Frontend En
 ### 📊 2. Dashboard Page
 
 #### Header
-- Sapaan user
 - Icon notifikasi
 - Foto profil
 - Tombol Logout
-- Modal konfirmasi logout dengan efek blur
+- Modal konfirmasi logout
 
 #### Sidebar Navigasi (Dummy)
-- Dashboard  
-- Users  
-- Reports  
+- Dashboard    
+- Reports
+  - Weekly Report
+  - Monthly Report
+- Users
 
 #### Summary Cards
 Menampilkan empat data statis:
@@ -81,6 +88,11 @@ Fitur:
 - Searching (berdasarkan seluruh kolom)
 - Pagination
 - Filter Role
+
+#### Charts
+- Bar Chart
+- Pie Chart
+- Line Chart
 
 ---
 
